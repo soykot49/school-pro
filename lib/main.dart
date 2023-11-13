@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_drawer/navbar.dart';
-import 'dart:ui';
 
 void main() {
   runApp(const MyWidget());
